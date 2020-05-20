@@ -1,3 +1,5 @@
+**本文档所有内容全部作废。望周知。**
+
 冥王所见之梦
 
 星之宫 海鸟  
@@ -365,7 +367,7 @@ Kitama Kafuu
 
 ---
 
-金光璀璨的 OI 之神
+现世的 OI 之神
 
 一神 戎  
 Ebisu Hitogami
@@ -393,7 +395,7 @@ Ebisu Hitogami
 
 ---
 
-超高校级的 Candidate Master
+蔑视红日的黑色羽翼
 
 飞羽 楚特  
 Sotoku Toba
