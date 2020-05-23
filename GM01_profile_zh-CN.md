@@ -256,7 +256,7 @@ Kirima Enouchi
 
 ### St.4 Boss（表设定）
 
-橘色的祥云
+禅与快速傅里叶变换
 
 在身 莲  
 Arimi Ren
@@ -402,7 +402,28 @@ Kusunoki Tommy
 
 #### 使用符卡
 
-（鸽了）
+| 符卡名 | 使用场合 |
+| :-: | :-: |
+| 自我介绍「浩楠正气」 | Easy/Normal |
+| 自我介绍「李教练的真传弟子」 | Hard |
+| 自我介绍「SLYZ 的 OI 之光」 | Mortal |
+| 复读「楠楠学舌」 | Easy/Normal |
+| 大魔法「主席复颂」 | Hard |
+| 奇妙「如何用 Python 编写 AI」 | Mortal |
+| 潮能力「神机妙算」 | Easy/Normal |
+| 家产「能跑过任何算法的计算机」 | Hard |
+| 高科技「楠河二号」 | Mortal |
+| 经典「枕中记」 | Easy |
+| 经典「太史公书」 | Normal |
+| 经典「古事记」 | Hard |
+| 经典「平家物语」 | Mortal |
+| 「四大家族的庇护」 | Easy |
+| 「四方众神的大复活」 | Normal |
+| 「四象洋流海域」 | Hard |
+| 「四种的神器之魂」 | Mortal |
+| 巨作「机房人物列传」 | Easy/Normal |
+| 「终焉之时的来客」 | Hard |
+| 「最后的胡策」 | Mortal |
 
 ### St.Ex Midboss（里设定）
 
@@ -410,14 +431,11 @@ Kusunoki Tommy
 
 | 符卡名 | 使用场合 |
 | :-: | :-: |
-| 想起「太平成仇的妖剑」 | Easy Extra |
-| 召唤「红宝石的高尚之魂」 | Extra |
+| 召唤「太平成仇的妖剑」 | Easy Extra/Extra |
 | 主席奥义「逢魔时刻的大火灾」 | Absurdly Extra |
-| 想起「疾风的过路魔」 | Easy Extra |
-| 召唤「绿宝石的幸运之魂」 | Extra |
+| 召唤「疾风的过路魔」 | Easy Extra/Extra |
 | 主席奥义「风神的霹雳舞步」 | Absurdly Extra |
-| 想起「无名的拉莱耶妖精」 | Easy Extra |
-| 召唤「蓝宝石的忠诚之魂」 | Extra |
+| 召唤「无名的拉莱耶妖精」 | Easy Extra/Extra |
 | 主席奥义「福尔摩沙的龙三角」 | Absurdly Extra |
 
 ### St.Ex Boss（表设定）
@@ -438,7 +456,28 @@ Furuto Amagumo
 
 #### 使用符卡
 
-（鸽了）
+| 符卡名 | 使用场合 |
+| :-: | :-: |
+| 算法「深度优先搜索」 | Easy Extra/Extra |
+| 技巧「树剖代替点分治」 | Absurdly Extra |
+| 算法「广度优先搜索」 | Easy Extra/Extra |
+| 英语「lē mòn」 | Absurdly Extra |
+| 算法「记忆化搜索」 | Easy Extra/Extra |
+| 爆炸「八中欧债」 | Absurdly Extra |
+| 算法「双向搜索」 | Easy Extra/Extra |
+| 禁令「不许搭博客」 | Absurdly Extra |
+| 算法「启发式搜索」 | Easy Extra/Extra |
+| 质问「是不是不想学了」 | Absurdly Extra |
+| 算法「A\*」 | Easy Extra/Extra |
+| 胁迫「小组滚蛋」 | Absurdly Extra |
+| 算法「迭代加深搜索」 | Easy Extra/Extra |
+| 打击「ZYC 比较稳」 | Absurdly Extra |
+| 算法「Dancing Links」 | Easy Extra/Extra |
+| 禁令「不许装系统」 | Absurdly Extra |
+| 优化「可行性剪枝」 | Easy Extra |
+| 优化「最优性剪枝」 | Extra |
+| 优化「巨斧砍大树」 | Absurdly Extra |
+| \*你已经成功了！\* | Easy Extra/Extra/Absurdly Extra |
 
 ### St.Ex+α Boss（表设定）
 
@@ -488,4 +527,23 @@ Yumemidani Ushio
 
 #### 使用符卡
 
-（鸽了）
+| 符卡名 | 使用场合 |
+| :-: | :-: |
+| 神弹「<ruby>夜幕降临<rt>Invisible Murderer</rt></ruby>」 | Easy Extra |
+| 神弹「<ruby>昏乱之谜<rt>Dark Side of the Sun</rt></ruby>」 | Extra |
+| 神弹「<ruby>潮皇大帝<rt>Coloful Mist</rt></ruby>」 | Absurdly Extra |
+| 天弹「<ruby>潮汐发电<rt>Mysterious Swan</rt></ruby>」 | Easy Extra |
+| 天弹「<ruby>五雷轰顶<rt>Fate of Tidelogies</rt></ruby>」 | Extra |
+| 天弹「<ruby>幻光岁华<rt>Unleadable Life</rt></ruby>」 | Absurdly Extra |
+| 死弹「<ruby>梦界旅途<rt>Long Journey to Death</rt></ruby>」 | Easy Extra |
+| 死弹「<ruby>现世翻修<rt>Hidden Bugs in Codes</rt></ruby>」 | Extra |
+| 死弹「<ruby>神话幻想<rt>Dream of the World</rt></ruby>」 | Absurdly Extra |
+| 术弹「<ruby>国集论文<rt>Proof to a Combinatorial Problem</rt></ruby>」 | Easy Extra |
+| 术弹「<ruby>一加四五<rt>Greatest Classic Works</rt></ruby>」 | Extra |
+| 术弹「<ruby>有字天书<rt>Ushio the IOI AKer</rt></ruby>」 | Absurdly Extra |
+| 逆弹「<ruby>幻想游行<rt>Under the Flower Banner</rt></ruby>」 | Easy Extra |
+| 逆弹「<ruby>决死行进<rt>Matching on Fire</rt></ruby>」 | Extra |
+| 逆弹「<ruby>天下翻覆<rt>Reverse Ideology</rt></ruby>」 | Absurdly Extra |
+| 冥弹「<ruby>此生有命<rt>Imperishable Being</rt></ruby>」 | Easy Extra |
+| 冥弹「<ruby>梦终演舞<rt>Concealed the Conclusion</rt></ruby>」 | Extra |
+| 冥弹「<ruby>诸神之梦<rt>Destination by Ύπνος</rt></ruby>」 | Absurdly Extra |
